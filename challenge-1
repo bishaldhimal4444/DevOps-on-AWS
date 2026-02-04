@@ -1,0 +1,4 @@
+Your company has just been notified that the base nginx image has a vulnerability and it needs to be patched. You are a DevOps engineer assigned to do it!
+Someone attempted it, and there is a CodePipeline that is already built. But the pipeline that builds the new image is failing.
+You need to figure out what is wrong with it and fix it!
+
