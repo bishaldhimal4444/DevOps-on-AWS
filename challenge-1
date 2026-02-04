@@ -1,4 +1,26 @@
-Your company has just been notified that the base nginx image has a vulnerability and it needs to be patched. You are a DevOps engineer assigned to do it!
-Someone attempted it, and there is a CodePipeline that is already built. But the pipeline that builds the new image is failing.
-You need to figure out what is wrong with it and fix it!
+## Your company has just been notified that the base nginx image has a vulnerability and it needs to be patched. You are a DevOps engineer assigned to do it!
+## Someone attempted it, and there is a CodePipeline that is already built. But the pipeline that builds the new image is failing.
+## You need to figure out what is wrong with it and fix it!
 
+### Steps -1:
+```
+1. Goto Developer Tools > Codepipeline
+2. Click on 'build project' from Build Tab and select the failed build and click on 'view log' tab to view logs.
+3. logs will be appear on CloudWatch > Log management > (build_Id_). Expand the error section for the full detailed view of error log.
+
+```
+### Steps -2:
+
+### Steps -3:
+
+### Steps -4:
+
+### Steps -
+### Steps -
+### Steps -
+### Steps -
+### Steps -
+### Steps -
+### Steps -
+### Steps -
+### Steps -
